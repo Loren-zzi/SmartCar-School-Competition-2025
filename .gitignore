@@ -1,0 +1,28 @@
+# Build outputs
+Debug/
+Release/
+*.o
+*.obj
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.src
+*.lst
+*.siz
+
+# Local IDE workspaces and temporary files
+.ads/
+.vscode/
+.metadata/
+*.launch
+*.log
+*.tmp
+*.bak
+*~
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
